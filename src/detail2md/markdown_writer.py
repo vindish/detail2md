@@ -44,7 +44,7 @@ def _json_table(data: dict | None) -> str:
 
 def export_one(product: Product, root: Path) -> Path:
     clxh = product.clxh or "UNKNOWN"
-    folder_name = _safe_dir_name(f"{clxh}_{product.pc}_{product.cpid}")
+    folder_name = _safe_dir_name(f"{product.pc}_{product.cpid}_{clxh}")
     out_dir = root / _safe_dir_name(product.company) / folder_name
     img_dir = out_dir / "images"
     out_dir.mkdir(parents=True, exist_ok=True)
