@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "83133e64b36ad207",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c305b36fe104f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dd69a9c1e37c9a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "output_md/湖北永航专用汽车有限公司/YHA5125TCAEQ_400_AB663481/YHA5125TCAEQ_400_AB663481.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "YHA5125TCAEQ_400_AB663481"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3187693a03374ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cb58e15f8ec7b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ded8253a20041ddd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "747ae61559153d95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f90190e87e3ff9b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 424.5
+  },
+  "right": {
+    "id": "d67f0ad9f04a9151",
+    "type": "split",
+    "children": [
+      {
+        "id": "4895090cd45a33da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d5688ad652218b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "output_md/湖北永航专用汽车有限公司/YHA5125TCAEQ_400_AB663481/YHA5125TCAEQ_400_AB663481.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "YHA5125TCAEQ_400_AB663481 的反向链接列表"
+            }
+          },
+          {
+            "id": "5f0be2935383e5df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "output_md/湖北永航专用汽车有限公司/YHA5125TCAEQ_400_AB663481/YHA5125TCAEQ_400_AB663481.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "YHA5125TCAEQ_400_AB663481 的出链列表"
+            }
+          },
+          {
+            "id": "c0e5d1d9d6bf3d11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "44241e77822280de",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c7c3bc099cff8546",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "output_md/湖北永航专用汽车有限公司/YHA5125TCAEQ_400_AB663481/YHA5125TCAEQ_400_AB663481.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "YHA5125TCAEQ_400_AB663481 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "5dd69a9c1e37c9a6",
+  "lastOpenFiles": [
+    "output_md/湖北永航专用汽车有限公司/YHA5043ZZZSH_404_ABA68912/YHA5043ZZZSH_404_ABA68912.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5042ZZZBJBEV_405_ABD74580/YHA5042ZZZBJBEV_405_ABD74580.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5033ZXXSH_404_AB663288/YHA5033ZXXSH_404_AB663288.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5047GPSSH_401_AB967326/YHA5047GPSSH_401_AB967326.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5045ZXXBJ_404_ABC73834/YHA5045ZXXBJ_404_ABC73834.md",
+    "output_md/湖北凯力专用汽车有限公司/KLF5320ZXXBEV_401_AB967198/KLF5320ZXXBEV_401_AB967198.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5316ZXXZZ_405_ABD74443/YHA5316ZXXZZ_405_ABD74443.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5257ZYSZZ_406_ABE74847/YHA5257ZYSZZ_406_ABE74847.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5187ZXLSXBEV_406_AB865543/YHA5187ZXLSXBEV_406_AB865543.md",
+    "_tmp_check.py",
+    "output_md/湖北永航专用汽车有限公司/YHA5257ZXXZZ_405_ABB72075/YHA5257ZXXZZ_405_ABB72075.md",
+    "output_md/湖北凯力专用汽车有限公司/KLF5040TDYB6_350_X8171320/KLF5040TDYB6_350_X8171320.md",
+    "output_md/湖北凯力专用汽车有限公司/KLF5040TCXZ6_398_AB255799/KLF5040TCXZ6_398_AB255799.md",
+    "output_md/湖北凯力专用汽车有限公司/KLF5020XGJJ6_403_ABB72037/KLF5020XGJJ6_403_ABB72037.md",
+    "output_md/湖北凯力专用汽车有限公司/KLF5010TSLBEV_390_AA024063/KLF5010TSLBEV_390_AA024063.md",
+    "README.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5255ZYSLZ_406_ABE76129/images/ABE76129_406_abe761295.jpg",
+    "output_md/湖北永航专用汽车有限公司/YHA5255ZYSLZ_406_ABE76129/images/ABE76129_406_abe761294.jpg",
+    "output_md/湖北永航专用汽车有限公司/YHA5255ZYSLZ_406_ABE76129/images/ABE76129_406_abe761291.jpg",
+    "output_md/湖北永航专用汽车有限公司/YHA5255ZYSLZ_406_ABE76129/images/ABE76129_406_abe761290.jpg",
+    "output_md/湖北永航专用汽车有限公司/YHA5255ZYSLZ_406_ABE76129/YHA5255ZYSLZ_406_ABE76129.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5255ZYSLZ_406_ABE76129/images",
+    "output_md/湖北永航专用汽车有限公司/YHA5255ZYSLZ_406_ABE76129",
+    "output_md/湖北永航专用汽车有限公司/YHA5180ZXXHS_406_ABE75468/images/ABE75468_406_abe754685.jpg",
+    "output_md/湖北永航专用汽车有限公司/YHA5180ZXXHS_406_ABE75468/images/ABE75468_406_abe754684.jpg",
+    "output_md/湖北永航专用汽车有限公司/YHA5180ZXXHS_406_ABE75468/images/ABE75468_406_abe754681.jpg",
+    "output_md/湖北永航专用汽车有限公司/YHA5180ZXXHS_406_ABE75468/images/ABE75468_406_abe754680.jpg",
+    "output_md/湖北永航专用汽车有限公司/YHA5180ZXXHS_406_ABE75468/YHA5180ZXXHS_406_ABE75468.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5180ZXXHS_406_ABE75468/images",
+    "output_md/湖北永航专用汽车有限公司/YHA5180ZXXHS_406_ABE75468",
+    "output_md/湖北永航专用汽车有限公司/YHA5124ZXXCDWBEV_406_ABE76020/images/ABE76020_406_abe760205.jpg",
+    "output_md/湖北永航专用汽车有限公司/YHA5124ZXXCDWBEV_406_ABE76020/images/ABE76020_406_abe760204.jpg",
+    "output_md/湖北永航专用汽车有限公司/YHA5124ZXXCDWBEV_406_ABE76020/YHA5124ZXXCDWBEV_406_ABE76020.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5124ZXXCDWBEV_406_ABE76020/images",
+    "output_md/湖北永航专用汽车有限公司/YHA5124ZXXCDWBEV_406_ABE76020",
+    "output_md/湖北永航专用汽车有限公司/YHA5094ZYSJX_406_ABC72468/YHA5094ZYSJX_406_ABC72468.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5094ZYSJX_406_ABC72468/images",
+    "output_md/湖北永航专用汽车有限公司/YHA5094ZYSJX_406_ABC72468",
+    "output_md/湖北永航专用汽车有限公司/YHA5047ZYSSHBEV_406_AB663322/YHA5047ZYSSHBEV_406_AB663322.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5047ZYSSHBEV_406_AB663322/images",
+    "output_md/湖北永航专用汽车有限公司/YHA5031ZXXCKSBEV_406_ABE75334/YHA5031ZXXCKSBEV_406_ABE75334.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5181ZXXBJ_405_ABB70855/YHA5181ZXXBJ_405_ABB70855.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5180ZXLD_405_ABB70554/YHA5180ZXLD_405_ABB70554.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5185TXCEQ_404_AB764097/YHA5185TXCEQ_404_AB764097.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5180TWQD_404_AB865680/YHA5180TWQD_404_AB865680.md",
+    "output_md/湖北永航专用汽车有限公司/YHA5164ZYSBJBEV_404_AB966862/YHA5164ZYSBJBEV_404_AB966862.md"
+  ]
+}

@@ -1,0 +1,21 @@
+[project]
+name = "detail2md"
+version = "1.0.0"
+description = "公告详情页 + JSON + 图片 -> PostgreSQL -> Markdown 流水线"
+requires-python = ">=3.10"
+dependencies = [
+    "SQLAlchemy>=2.0",
+    "psycopg[binary]>=3.1",
+    "beautifulsoup4>=4.12",
+    "lxml>=4.9",
+]
+
+[project.scripts]
+detail2md = "detail2md.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
