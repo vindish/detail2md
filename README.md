@@ -40,11 +40,15 @@ python -m venv .venv
 :: 一键完成（推荐）
 .\.venv\Scripts\python.exe run.py all
 python run.py all
+python run.py ingest --company 湖北同威专用汽车有限公司  :: 指定公司
+python run.py export-md --company 湖北同威专用汽车有限公司
+python run.py export-md
 
 :: 或者按步骤
 .\.venv\Scripts\python.exe run.py init-db
 .\.venv\Scripts\python.exe run.py ingest                                 :: 全部公司
 .\.venv\Scripts\python.exe run.py ingest --company 湖北凯力专用汽车有限公司  :: 指定公司
+.\.venv\Scripts\python.exe run.py ingest --company 湖北同威专用汽车有限公司  :: 指定公司   此处功能无法完成，待修正。
 .\.venv\Scripts\python.exe run.py export-md
 .\.venv\Scripts\python.exe run.py verify
 ```

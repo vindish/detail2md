@@ -42,6 +42,7 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.cmd == "ingest":
         run_ingest(only_companies=args.company)
+        
         return 0
 
     if args.cmd == "export-md":

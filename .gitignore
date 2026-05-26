@@ -2,6 +2,7 @@
 input
 output_md
 output_md2
+output_md3
 src/detail2md/__pycache__
 __pycache__
 *.pyc

@@ -16,7 +16,7 @@ class Settings:
     # input_dir: Path = .. /  "miit-eidc_firstpage"
     input_dir: Path = PROJECT_ROOT.parent / "miit-eidc_db2" / "input_company"
     # Markdown 输出根目录
-    output_md_dir: Path = PROJECT_ROOT / "output_md2"
+    output_md_dir: Path = PROJECT_ROOT / "output_md3"
 
     # PostgreSQL 连接信息（密码默认为空）
     pg_host: str = os.getenv("PGHOST", "localhost")
