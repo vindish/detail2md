@@ -38,7 +38,7 @@ def run_verify() -> int:
         md_root = settings.output_md_dir
         md_count = 0
         for product in session.scalars(select(Product)):
-            folder_name = f"{product.clxh or 'UNKNOWN'}_{product.pc}_{product.cpid}"
+            folder_name = f"{product.pc}_{product.cpid}_{product.clxh or 'UNKNOWN'}"
             for ch in '\\/:*?"<>|':
                 folder_name = folder_name.replace(ch, "_")
             d = md_root / product.company / folder_name

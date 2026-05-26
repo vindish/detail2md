@@ -14,16 +14,16 @@ class Settings:
     # 输入根目录（包含若干 output_<公司名> 子目录）
     # input_dir: Path = PROJECT_ROOT / "input"
     # input_dir: Path = .. /  "miit-eidc_firstpage"
-    input_dir: Path = PROJECT_ROOT.parent / "miit-eidc_firstpage"
+    input_dir: Path = PROJECT_ROOT.parent / "miit-eidc_db2" / "input_company"
     # Markdown 输出根目录
-    output_md_dir: Path = PROJECT_ROOT / "output_md"
+    output_md_dir: Path = PROJECT_ROOT / "output_md2"
 
     # PostgreSQL 连接信息（密码默认为空）
     pg_host: str = os.getenv("PGHOST", "localhost")
     pg_port: int = int(os.getenv("PGPORT", "5433"))
     pg_user: str = os.getenv("PGUSER", "miit")
     pg_password: str = os.getenv("PGPASSWORD", "secret")
-    pg_database: str = os.getenv("PGDATABASE", "postgres")
+    pg_database: str = os.getenv("PGDATABASE", "miit")
 
     @property
     def admin_dsn(self) -> str:

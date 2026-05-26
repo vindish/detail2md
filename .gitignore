@@ -1,7 +1,9 @@
 .venv
 input
 output_md
+output_md2
 src/detail2md/__pycache__
 __pycache__
 *.pyc
 *.sqlite3
+output_md2.tar
